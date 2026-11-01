@@ -1,0 +1,27 @@
+{
+ "id": "cabinet_grey",
+ "size": [
+  0.52,
+  1.12,
+  0.432
+ ],
+ "min": [
+  -0.26,
+  0.0,
+  -0.216
+ ],
+ "max": [
+  0.26,
+  1.12,
+  0.216
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 2000,
+  "body_LOD1": 600,
+  "body_LOD2": 119
+ },
+ "glass": false,
+ "parts": {}
+}

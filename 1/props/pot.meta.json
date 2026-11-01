@@ -1,0 +1,27 @@
+{
+ "id": "pot",
+ "size": [
+  0.302,
+  0.291,
+  0.302
+ ],
+ "min": [
+  -0.151,
+  0.0,
+  -0.151
+ ],
+ "max": [
+  0.151,
+  0.291,
+  0.151
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 1599,
+  "body_LOD1": 500,
+  "body_LOD2": 120
+ },
+ "glass": false,
+ "parts": {}
+}

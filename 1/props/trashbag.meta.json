@@ -1,0 +1,27 @@
+{
+ "id": "trashbag",
+ "size": [
+  0.528,
+  0.575,
+  0.463
+ ],
+ "min": [
+  -0.264,
+  0.0,
+  -0.231
+ ],
+ "max": [
+  0.264,
+  0.575,
+  0.231
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 1600,
+  "body_LOD1": 399,
+  "body_LOD2": 100
+ },
+ "glass": false,
+ "parts": {}
+}

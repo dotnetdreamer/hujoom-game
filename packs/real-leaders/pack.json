@@ -1,0 +1,60 @@
+{
+  "id": "real-leaders",
+  "name": "Real leaders",
+  "about": "Imran Khan as the jailed leader of chapter 1, with Sohail Afridi and Ali Amin Gandapur as playable characters, and the chapter's journey on real roads: from Peshawar by way of Charsadda and the M-1 motorway over the Indus to Islamabad. Their likenesses are built from video stills published by Pakistan Tehreek-e-Insaf under CC BY 3.0 (via Wikimedia Commons), adapted onto 3D heads.",
+  "credits": "CREDITS.md",
+  "i18n": [
+    "ur"
+  ],
+  "chapters": {
+    "kala-qila": {
+      "leader": "Imran Khan",
+      "leaderNative": "عمران خان",
+      "leaderAvatar": "Leader_IK",
+      "chapter": "804",
+      "portrait": "portraits/leader-ik.webp",
+      "places": {
+        "zarghunabad": {
+          "name": "Peshawar",
+          "native": "پشاور"
+        },
+        "sheenkhwar": {
+          "name": "Charsadda",
+          "native": "چارسدہ"
+        },
+        "motorway": {
+          "name": "M-1 Motorway",
+          "native": "ایم ون موٹروے"
+        },
+        "river": {
+          "name": "Indus",
+          "native": "دریائے سندھ"
+        },
+        "noorabad": {
+          "name": "Islamabad",
+          "native": "اسلام آباد"
+        }
+      },
+      "heroes": [
+        {
+          "id": "sohail-afridi",
+          "name": "Sohail Afridi",
+          "nameNative": "سہیل آفریدی",
+          "role": "Chief Minister, Khyber Pakhtunkhwa",
+          "blurb": "From the Shalobar tribe of Khyber district, the youngest chief minister in the province's history. Today he walks with the crowd to the jail gate.",
+          "avatar": "Hero_Afridi",
+          "portrait": "portraits/hero-afridi.webp"
+        },
+        {
+          "id": "ali-amin-gandapur",
+          "name": "Ali Amin Gandapur",
+          "nameNative": "علی امین گنڈاپور",
+          "role": "Former Chief Minister, Khyber Pakhtunkhwa",
+          "blurb": "The man from Dera Ismail Khan with the famous moustache. He has led long convoys out of Khyber Pakhtunkhwa before and knows how to keep a march moving.",
+          "avatar": "Hero_Gandapur",
+          "portrait": "portraits/hero-gandapur.webp"
+        }
+      ]
+    }
+  }
+}

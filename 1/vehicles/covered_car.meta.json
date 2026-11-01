@@ -1,0 +1,27 @@
+{
+ "id": "covered_car",
+ "size": [
+  1.789,
+  1.411,
+  4.38
+ ],
+ "min": [
+  -0.894,
+  0.0,
+  -2.19
+ ],
+ "max": [
+  0.894,
+  1.411,
+  2.19
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 5000,
+  "body_LOD1": 1500,
+  "body_LOD2": 300
+ },
+ "glass": false,
+ "parts": {}
+}

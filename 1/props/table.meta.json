@@ -1,0 +1,27 @@
+{
+ "id": "table",
+ "size": [
+  1.8,
+  0.549,
+  0.657
+ ],
+ "min": [
+  -0.9,
+  -0.0,
+  -0.329
+ ],
+ "max": [
+  0.9,
+  0.549,
+  0.329
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 952,
+  "body_LOD1": 400,
+  "body_LOD2": 100
+ },
+ "glass": false,
+ "parts": {}
+}

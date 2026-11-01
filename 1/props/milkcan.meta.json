@@ -1,0 +1,27 @@
+{
+ "id": "milkcan",
+ "size": [
+  0.197,
+  0.288,
+  0.195
+ ],
+ "min": [
+  -0.098,
+  0.0,
+  -0.098
+ ],
+ "max": [
+  0.098,
+  0.288,
+  0.098
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 1600,
+  "body_LOD1": 500,
+  "body_LOD2": 120
+ },
+ "glass": false,
+ "parts": {}
+}

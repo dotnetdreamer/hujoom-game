@@ -1,0 +1,27 @@
+{
+ "id": "generator",
+ "size": [
+  0.818,
+  0.577,
+  0.564
+ ],
+ "min": [
+  -0.409,
+  0.0,
+  -0.282
+ ],
+ "max": [
+  0.409,
+  0.577,
+  0.282
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 4000,
+  "body_LOD1": 1200,
+  "body_LOD2": 250
+ },
+ "glass": true,
+ "parts": {}
+}

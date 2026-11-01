@@ -1,0 +1,27 @@
+{
+ "id": "kettle",
+ "size": [
+  0.263,
+  0.178,
+  0.18
+ ],
+ "min": [
+  -0.131,
+  0.0,
+  -0.09
+ ],
+ "max": [
+  0.131,
+  0.178,
+  0.09
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 1600,
+  "body_LOD1": 499,
+  "body_LOD2": 120
+ },
+ "glass": false,
+ "parts": {}
+}

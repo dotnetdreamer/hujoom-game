@@ -1,0 +1,27 @@
+{
+ "id": "ac",
+ "size": [
+  0.84,
+  0.62,
+  0.4
+ ],
+ "min": [
+  -0.42,
+  0.0,
+  -0.2
+ ],
+ "max": [
+  0.42,
+  0.62,
+  0.2
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 312,
+  "body_LOD1": 160,
+  "body_LOD2": 116
+ },
+ "glass": false,
+ "parts": {}
+}

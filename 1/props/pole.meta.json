@@ -1,0 +1,27 @@
+{
+ "id": "pole",
+ "size": [
+  0.24,
+  9.0,
+  1.719
+ ],
+ "min": [
+  -0.12,
+  0.0,
+  -0.86
+ ],
+ "max": [
+  0.12,
+  9.0,
+  0.86
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 864,
+  "body_LOD1": 420,
+  "body_LOD2": 40
+ },
+ "glass": false,
+ "parts": {}
+}

@@ -1,0 +1,27 @@
+{
+ "id": "pole_transformer",
+ "size": [
+  1.1,
+  9.0,
+  1.719
+ ],
+ "min": [
+  -0.55,
+  0.0,
+  -0.86
+ ],
+ "max": [
+  0.55,
+  9.0,
+  0.86
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 1116,
+  "body_LOD1": 700,
+  "body_LOD2": 80
+ },
+ "glass": false,
+ "parts": {}
+}

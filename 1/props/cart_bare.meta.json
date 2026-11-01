@@ -1,0 +1,27 @@
+{
+ "id": "cart_bare",
+ "size": [
+  1.41,
+  0.852,
+  2.77
+ ],
+ "min": [
+  -0.705,
+  0.0,
+  -1.02
+ ],
+ "max": [
+  0.705,
+  0.852,
+  1.75
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 899,
+  "body_LOD1": 420,
+  "body_LOD2": 160
+ },
+ "glass": false,
+ "parts": {}
+}

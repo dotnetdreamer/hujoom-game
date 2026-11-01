@@ -1,0 +1,27 @@
+{
+ "id": "box",
+ "size": [
+  0.387,
+  0.342,
+  0.516
+ ],
+ "min": [
+  -0.194,
+  0.0,
+  -0.258
+ ],
+ "max": [
+  0.194,
+  0.342,
+  0.258
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 1200,
+  "body_LOD1": 299,
+  "body_LOD2": 59
+ },
+ "glass": false,
+ "parts": {}
+}

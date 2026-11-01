@@ -1,0 +1,27 @@
+{
+ "id": "basket",
+ "size": [
+  0.383,
+  0.117,
+  0.295
+ ],
+ "min": [
+  -0.192,
+  0.0,
+  -0.148
+ ],
+ "max": [
+  0.192,
+  0.117,
+  0.148
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 2599,
+  "body_LOD1": 698,
+  "body_LOD2": 264
+ },
+ "glass": false,
+ "parts": {}
+}

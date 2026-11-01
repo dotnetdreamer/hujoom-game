@@ -1,0 +1,27 @@
+{
+ "id": "jersey",
+ "size": [
+  1.565,
+  1.112,
+  0.442
+ ],
+ "min": [
+  -0.783,
+  0.0,
+  -0.221
+ ],
+ "max": [
+  0.783,
+  1.112,
+  0.221
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 2400,
+  "body_LOD1": 600,
+  "body_LOD2": 120
+ },
+ "glass": false,
+ "parts": {}
+}

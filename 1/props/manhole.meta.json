@@ -1,0 +1,27 @@
+{
+ "id": "manhole",
+ "size": [
+  0.691,
+  0.068,
+  0.691
+ ],
+ "min": [
+  -0.345,
+  0.0,
+  -0.345
+ ],
+ "max": [
+  0.345,
+  0.068,
+  0.345
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 900,
+  "body_LOD1": 300,
+  "body_LOD2": 59
+ },
+ "glass": false,
+ "parts": {}
+}

@@ -1,0 +1,29 @@
+{
+ "id": "heap_lemon",
+ "size": [
+  1.15,
+  0.232,
+  1.85
+ ],
+ "min": [
+  -0.575,
+  0,
+  -0.925
+ ],
+ "max": [
+  0.575,
+  0.232,
+  0.925
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 1200,
+  "body_LOD1": 400,
+  "body_LOD2": 90
+ },
+ "glass": false,
+ "parts": {},
+ "colorHd": false,
+ "normalFirst": true
+}

@@ -1,0 +1,845 @@
+{
+ "m_walk_neutral_01": {
+  "duration": 1.2,
+  "travel": [
+   0,
+   1.214
+  ],
+  "speed": 1.012,
+  "loop": true
+ },
+ "m_walk_neutral_02": {
+  "duration": 1.0667,
+  "travel": [
+   0,
+   1.4383
+  ],
+  "speed": 1.348,
+  "loop": true
+ },
+ "m_walk_fast_01": {
+  "duration": 1.0667,
+  "travel": [
+   0,
+   1.5951
+  ],
+  "speed": 1.495,
+  "loop": true
+ },
+ "m_walk_slow_01": {
+  "duration": 1.4667,
+  "travel": [
+   0,
+   1.2041
+  ],
+  "speed": 0.821,
+  "loop": true
+ },
+ "m_walk_stroll_01": {
+  "duration": 1.5667,
+  "travel": [
+   0,
+   1.086
+  ],
+  "speed": 0.693,
+  "loop": true
+ },
+ "m_walk_bruised": {
+  "duration": 2.5333,
+  "travel": [
+   0,
+   1.8063
+  ],
+  "speed": 0.713,
+  "loop": true
+ },
+ "m_run_slow_01": {
+  "duration": 0.7667,
+  "travel": [
+   0,
+   1.8481
+  ],
+  "speed": 2.411,
+  "loop": true
+ },
+ "m_run_neutral_01": {
+  "duration": 0.7333,
+  "travel": [
+   0,
+   2.1118
+  ],
+  "speed": 2.88,
+  "loop": true
+ },
+ "m_run_fast_01": {
+  "duration": 0.6,
+  "travel": [
+   0,
+   3.5037
+  ],
+  "speed": 5.839,
+  "loop": true
+ },
+ "m_run_injured": {
+  "duration": 0.6667,
+  "travel": [
+   0,
+   2.3013
+  ],
+  "speed": 3.452,
+  "loop": true
+ },
+ "m_walk_start": {
+  "duration": 0.9667,
+  "travel": [
+   0,
+   0.607
+  ],
+  "speed": 0.628,
+  "loop": false
+ },
+ "m_walk_stop": {
+  "duration": 2,
+  "travel": [
+   0.0355,
+   1.3908
+  ],
+  "speed": 0.696,
+  "loop": false
+ },
+ "m_run_start": {
+  "duration": 0.6333,
+  "travel": [
+   0,
+   0.5719
+  ],
+  "speed": 0.903,
+  "loop": false
+ },
+ "m_run_stop": {
+  "duration": 1.2667,
+  "travel": [
+   0,
+   1.6275
+  ],
+  "speed": 1.285,
+  "loop": false
+ },
+ "f_walk_neutral_01": {
+  "duration": 1.2,
+  "travel": [
+   0,
+   1.4565
+  ],
+  "speed": 1.214,
+  "loop": true
+ },
+ "f_walk_fast_01": {
+  "duration": 1.0333,
+  "travel": [
+   0,
+   1.5815
+  ],
+  "speed": 1.53,
+  "loop": true
+ },
+ "f_walk_slow_01": {
+  "duration": 1.5,
+  "travel": [
+   0,
+   1.3309
+  ],
+  "speed": 0.887,
+  "loop": true
+ },
+ "f_run_slow_01": {
+  "duration": 0.8333,
+  "travel": [
+   0,
+   1.8912
+  ],
+  "speed": 2.269,
+  "loop": true
+ },
+ "f_run_neutral_01": {
+  "duration": 0.7667,
+  "travel": [
+   0,
+   2.12
+  ],
+  "speed": 2.765,
+  "loop": true
+ },
+ "f_run_fast_01": {
+  "duration": 0.7,
+  "travel": [
+   0,
+   3.765
+  ],
+  "speed": 5.379,
+  "loop": true
+ },
+ "m_idle_neutral_01": {
+  "duration": 11.6667,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_idle_neutral_02": {
+  "duration": 15.5,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_idle_neutral_03": {
+  "duration": 33.3333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_idle_neutral_05": {
+  "duration": 34.5333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_idle_breathe_01": {
+  "duration": 2.7333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_idle_look_around_01": {
+  "duration": 4.6333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_idle_look_around_02": {
+  "duration": 4.5,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_idle_nervous_01": {
+  "duration": 30.9,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_idle_angry_01": {
+  "duration": 28.3333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_idle_angry_02": {
+  "duration": 16.8333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_idle_cough_01": {
+  "duration": 3.6667,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_idle_cough_02": {
+  "duration": 4.6333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_idle_waiting_01": {
+  "duration": 47,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_cheer_01": {
+  "duration": 24.6333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_cheer_03": {
+  "duration": 4.2,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_cheer_04": {
+  "duration": 6.7333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_cheer_05": {
+  "duration": 6.3333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_claphands_01": {
+  "duration": 7,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_claphands_02": {
+  "duration": 14,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_wave_01": {
+  "duration": 2.8333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_wave_02": {
+  "duration": 6.2,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_cell_phone_talk_01": {
+  "duration": 31.9,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_cell_phone_textmessage": {
+  "duration": 34.4667,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_take_picture": {
+  "duration": 8.5,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_gestic_talk_neutral_01": {
+  "duration": 35.5667,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_gestic_talk_excited_01": {
+  "duration": 26.5333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_gestic_listen_angry_01": {
+  "duration": 30.6667,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_gestic_talk_relaxed_01": {
+  "duration": 32.3333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_moderate_01": {
+  "duration": 36.5,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_moderate_02": {
+  "duration": 25.7333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_dancing_neutral": {
+  "duration": 21.5,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_dancing_aggressive": {
+  "duration": 25.8333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_drink_drinking": {
+  "duration": 35,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_sit_chair_idle_neutral_01": {
+  "duration": 36.1,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_sit_chair_breathe_01": {
+  "duration": 12.7,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "m_crouch_idle": {
+  "duration": 6.8667,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "f_idle_neutral_01": {
+  "duration": 15.5333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "f_idle_neutral_02": {
+  "duration": 11.2333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "f_idle_breathe_01": {
+  "duration": 2.6667,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "f_idle_look_around_01": {
+  "duration": 4.4667,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "f_idle_cough_01": {
+  "duration": 3.6667,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "f_idle_nervous_01": {
+  "duration": 46.1667,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "f_cheer_01": {
+  "duration": 15.3,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "f_cheer_02": {
+  "duration": 18.3667,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "f_claphands_01": {
+  "duration": 15.9333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "f_wave_01": {
+  "duration": 5.5333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "f_cell_phone_textmessage": {
+  "duration": 20.5333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "f_gestic_talk_neutral_01": {
+  "duration": 27.3333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "f_gestic_talk_angry_01": {
+  "duration": 32.7667,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "f_take_picture": {
+  "duration": 8.4333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "cmu_guard_idle_loop": {
+  "duration": 1.0333,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "cmu_guard_step_loop": {
+  "duration": 0.9333,
+  "travel": [
+   0.003,
+   0.5063
+  ],
+  "speed": 0.542,
+  "loop": true
+ },
+ "cmu_jab_l": {
+  "duration": 0.8667,
+  "travel": [
+   0.0783,
+   -0.0301
+  ],
+  "speed": 0.097,
+  "loop": false,
+  "impact": 0.3
+ },
+ "cmu_cross_r": {
+  "duration": 0.8333,
+  "travel": [
+   0.0455,
+   -0.0651
+  ],
+  "speed": 0.095,
+  "loop": false,
+  "impact": 0.2667
+ },
+ "cmu_hook": {
+  "duration": 1.0667,
+  "travel": [
+   -0.0069,
+   0.099
+  ],
+  "speed": 0.093,
+  "loop": false,
+  "impact": 0.7333
+ },
+ "cmu_uppercut": {
+  "duration": 1.3333,
+  "travel": [
+   -0.0266,
+   0.1381
+  ],
+  "speed": 0.105,
+  "loop": false,
+  "impact": 0.5667
+ },
+ "cmu_kick_front": {
+  "duration": 1.1,
+  "travel": [
+   0.0426,
+   0.0187
+  ],
+  "speed": 0.042,
+  "loop": false,
+  "impact": 0.5
+ },
+ "cmu_kick_low": {
+  "duration": 0.9333,
+  "travel": [
+   0.0942,
+   0.4216
+  ],
+  "speed": 0.463,
+  "loop": false,
+  "impact": 0.5333
+ },
+ "cmu_block_high": {
+  "duration": 0.7,
+  "travel": [
+   0.002,
+   -0.1686
+  ],
+  "speed": 0.241,
+  "loop": false,
+  "impact": 0.4
+ },
+ "cmu_duck": {
+  "duration": 1.4667,
+  "travel": [
+   -0.0524,
+   -0.0058
+  ],
+  "speed": 0.036,
+  "loop": false,
+  "impact": 0.8667
+ },
+ "cmu_baton_strike": {
+  "duration": 0.9333,
+  "travel": [
+   0.1551,
+   0.0144
+  ],
+  "speed": 0.167,
+  "loop": false,
+  "impact": 0.4667
+ },
+ "cmu_throw": {
+  "duration": 1.2,
+  "travel": [
+   0.2038,
+   0.2856
+  ],
+  "speed": 0.292,
+  "loop": false,
+  "impact": 0.8333
+ },
+ "cmu_shove": {
+  "duration": 1.2333,
+  "travel": [
+   -0.011,
+   -0.0463
+  ],
+  "speed": 0.039,
+  "loop": false,
+  "impact": 0.6333
+ },
+ "cmu_fall_back": {
+  "duration": 1.4,
+  "travel": [
+   0.0146,
+   0.0491
+  ],
+  "speed": 0.037,
+  "loop": false,
+  "impact": 0.6333
+ },
+ "cmu_fall_forward": {
+  "duration": 1.1,
+  "travel": [
+   -0.0544,
+   0.5356
+  ],
+  "speed": 0.489,
+  "loop": false,
+  "impact": 1
+ },
+ "cmu_getup_front": {
+  "duration": 1.9667,
+  "travel": [
+   0.0996,
+   -0.5538
+  ],
+  "speed": 0.286,
+  "loop": false,
+  "impact": 1.7
+ },
+ "cmu_getup_back": {
+  "duration": 2.3,
+  "travel": [
+   0.2095,
+   0.687
+  ],
+  "speed": 0.312,
+  "loop": false,
+  "impact": 2.2
+ },
+ "cmu_push_loop": {
+  "duration": 1.4,
+  "travel": [
+   0,
+   0
+  ],
+  "speed": 0,
+  "loop": true
+ },
+ "cmu_drag_loop": {
+  "duration": 0.7,
+  "travel": [
+   0,
+   0.4927
+  ],
+  "speed": 0.704,
+  "loop": true
+ },
+ "cmu_resist_loop": {
+  "duration": 1.3,
+  "travel": [
+   0,
+   0.3444
+  ],
+  "speed": 0.265,
+  "loop": true
+ },
+ "cmu_march_loop": {
+  "duration": 1.3,
+  "travel": [
+   0,
+   1.1498
+  ],
+  "speed": 0.884,
+  "loop": true
+ },
+ "cmu_wounded_walk_loop": {
+  "duration": 1.3333,
+  "travel": [
+   0,
+   0.8473
+  ],
+  "speed": 0.635,
+  "loop": true
+ }
+}

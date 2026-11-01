@@ -1,0 +1,27 @@
+{
+ "id": "trashcan",
+ "size": [
+  0.645,
+  0.906,
+  0.549
+ ],
+ "min": [
+  -0.323,
+  0.0,
+  -0.274
+ ],
+ "max": [
+  0.323,
+  0.906,
+  0.274
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 2600,
+  "body_LOD1": 700,
+  "body_LOD2": 150
+ },
+ "glass": false,
+ "parts": {}
+}

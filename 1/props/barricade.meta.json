@@ -1,0 +1,27 @@
+{
+ "id": "barricade",
+ "size": [
+  2.04,
+  1.072,
+  0.6
+ ],
+ "min": [
+  -1.02,
+  0.0,
+  -0.3
+ ],
+ "max": [
+  1.02,
+  1.072,
+  0.3
+ ],
+ "wheels": [],
+ "paintRef": null,
+ "tris": {
+  "body_LOD0": 592,
+  "body_LOD1": 400,
+  "body_LOD2": 64
+ },
+ "glass": false,
+ "parts": {}
+}
